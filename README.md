@@ -1,4 +1,4 @@
-#Jittered Data Processing in R
+# Jittered Data Processing in R
 
 This R project is dedicated to geographic data manipulation using the ggplot2 package. Specifically, the provided code reads a CSV file, adds jitter to both latitude and longitude coordinates, and then exports the processed data to a new CSV file.
 
